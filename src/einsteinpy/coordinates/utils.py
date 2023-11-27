@@ -3,6 +3,8 @@ import numpy as np
 from einsteinpy import constant
 from einsteinpy.ijit import jit
 
+# trial change
+# trial chaneg number 2
 _c = constant.c.value
 
 
